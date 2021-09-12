@@ -1,4 +1,4 @@
 # ssh-matrix-hack
 replicating the hack from matrix reloaded
 
-check the release tag for better info.
+check the release branch for better info.
